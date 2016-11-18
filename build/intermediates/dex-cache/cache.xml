@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\akkil\Downloads\Projects\Android\Popular-Movies-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="27a2af45a1a27a3419bb0c27f4455745c0b2866e">
+        <dex dex="C:\Users\akkil\Downloads\Projects\Android\Popular-Movies-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_753a71e05263d7255316691f7ffa092620531f19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\akkil\Downloads\Projects\Android\Popular-Movies-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="20ca2ad3112b78113595d3b011f611bb295c4d13">
+        <dex dex="C:\Users\akkil\Downloads\Projects\Android\Popular-Movies-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_af0edc685c82b7c5a3675dca4e805d7f0e1ffceb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\akkil\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\akkil\Downloads\Projects\Android\Popular-Movies-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_8b489afadb92731f25478d9b5a1fbc3a8b00fd71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\akkil\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\akkil\Downloads\Projects\Android\Popular-Movies-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.0_d03d49858374b1573df44434d6794a5703be2e7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\akkil\Downloads\Projects\Android\Popular-Movies-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\akkil\Downloads\Projects\Android\Popular-Movies-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.0_dcb7ee1753185e2a748398852e193ffdddc00289\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\akkil\Downloads\Projects\Android\Popular-Movies-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\akkil\Downloads\Projects\Android\Popular-Movies-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.0_b7af66272b24a2b4afd2bf01a1e57e0c6e6b6be8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\akkil\Downloads\Projects\Android\Popular-Movies-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\akkil\Downloads\Projects\Android\Popular-Movies-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_4e4560d94505c269d2b7a21639622955d6bd5fbf\classes.dex" />
+    </item>
+
+</items>
